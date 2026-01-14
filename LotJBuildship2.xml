@@ -17,6 +17,7 @@
 <![CDATA[
 Original script written by @Ilyena and @Flek.
 Heavily modified by @Johnson.
+Further modified and currently maintained by Cynthia Black (FullmoonCat)
 
 Use buildhelp to see building command information.
 Use upgradehelp to see upgrade command information.
@@ -53,6 +54,11 @@ Note: Now supports automatic tuning of ships. Insert "tune 0" as a part type int
 
 
 Changelog
+2.0
+  - Adds additional gagging to aid with screen readers
+  - Adds a feature from the mudlet version, an estimate of parts needed and time to completion when viewing blueprints and frames (with my additions)
+  - Fixes a bug with he beckon/follow function
+  - Adds a group function for leaders
 1.40-
 Now includes automatic ship upgrading features. Type 'upgradehelp' to see all the associated commands.
 1.34-
